@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for the online hms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssid369/online-homeo.git"
+  },
+  "author": "sid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssid369/online-homeo/issues"
+  },
+  "homepage": "https://github.com/ssid369/online-homeo#readme"
+}
